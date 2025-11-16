@@ -1,6 +1,6 @@
 import React from "react";
 import PillNav from "./PillNav";
-import logo from '../../public/vite.svg'
+import logo from '../../public/download.jpg';
 
 const Header = () => {
   return (
